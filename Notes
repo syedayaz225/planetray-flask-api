@@ -1,0 +1,4 @@
+seeding the database with the flaskCLI
+
+Commands:
+python app.py #run flask app server
