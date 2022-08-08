@@ -14,8 +14,10 @@ Flask-Login==0.4.0
 Flask-Migrate==2.0.2
 Flask-Script==2.0.5
 SQLAlchemy==1.3.23
-Flask-WTF==0.14.2
+#JSON Web Tokens
+Flask-JWT-Extended==3.18.2
 Flask-User==1.0.1.5
+Flask-WTF==0.14.2
 flask-marshmallow
 
 # Automated tests
